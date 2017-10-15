@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "84482864014",
+    "firebase_url": "https://gamalizers.firebaseio.com",
+    "project_id": "gamalizers",
+    "storage_bucket": "gamalizers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84482864014:android:5cd59524a6a50802",
+        "android_client_info": {
+          "package_name": "com.aula.gama.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "84482864014-avd5ag1t69ci8vhdutsjebnkm7t5afle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1JsObuKYls0xLqcOC9tXKFp_WeQ4R0jQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
